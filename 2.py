@@ -7,4 +7,4 @@ def divison(a,b):
 
 
 multiplication(5*2)
-divison(4/2)
+divison(14/2)
